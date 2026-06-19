@@ -2,6 +2,24 @@
 
 A browser-based side-scrolling platformer built with **Next.js**, **TypeScript**, and **Phaser 3**.
 
+## 📸 In-Game Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rust-src/retro-platformer/refs/heads/main/preview1.png" width="60%" />
+</p>
+
+<p align="center">
+  <em>In-game screenshot (1)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rust-src/retro-platformer/refs/heads/main/preview2.png" width="60%" />
+</p>
+
+<p align="center">
+  <em>In-game screenshot (2)</em>
+</p>
+
 > **Every line of code in this repository was written by zAI (Z.ai).** I didn't write the game's code myself—the entire project was created through prompting and iterative feedback.
 
 ## 🤖 Why This Exists
